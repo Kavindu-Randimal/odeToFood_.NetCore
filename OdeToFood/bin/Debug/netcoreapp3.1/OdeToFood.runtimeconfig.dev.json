@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/RandimalGeeganage/.dotnet/store/|arch|/|tfm|",
+      "/Users/RandimalGeeganage/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/bin/Debug/netcoreapp3.1/OdeToFood.data.deps.json
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/bin/Debug/netcoreapp3.1/OdeToFood.data.dll
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/bin/Debug/netcoreapp3.1/OdeToFood.data.pdb
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/bin/Debug/netcoreapp3.1/OdeToFood.core.dll
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/bin/Debug/netcoreapp3.1/OdeToFood.core.pdb
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.csprojAssemblyReference.cache
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.AssemblyInfoInputs.cache
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.AssemblyInfo.cs
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.csproj.CoreCompileInputs.cache
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.csproj.CopyComplete
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.dll
+/Users/RandimalGeeganage/Documents/dotNet/OdeToFood/OdeToFood.data/obj/Debug/netcoreapp3.1/OdeToFood.data.pdb

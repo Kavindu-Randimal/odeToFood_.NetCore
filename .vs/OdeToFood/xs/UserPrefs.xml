@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{1636607C-B038-40B0-92CB-06425A9A1155}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="OdeToFood/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/Shared/_Layout.cshtml" Line="28" Column="110" />
+      <File FileName="OdeToFood/Pages/Restaurents/List.cshtml" Line="7" Column="15" />
+      <File FileName="OdeToFood/Pages/Restaurents/List.cshtml.cs" Line="14" Column="47" />
+      <File FileName="OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/appsettings.json" Line="10" Column="28" />
+      <File FileName="OdeToFood.core/Restaurents.cs" Line="2" Column="25" />
+      <File FileName="OdeToFood.data/IRestaurentData.cs" Line="29" Column="34" />
+      <File FileName="OdeToFood.core/CuisineType.cs" Line="2" Column="2" />
+      <File FileName="OdeToFood/Startup.cs" Line="11" Column="21" />
+      <File FileName="OdeToFood/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/Program.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="OdeToFood/mono_crash.11a6748113.0.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Restaurents" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="OdeToFood.core" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+            <Node name="OdeToFood.data" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
